@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "WORK_HArd121",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "flamedlifesteals1.minefort.com",
-    "port": 19132,
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
